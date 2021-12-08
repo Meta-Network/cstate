@@ -1,15 +1,16 @@
 ---
 section: issue
-title: Test Mttk API - 1208 - 01
+title: Test Mttk API - 1208
 date: 2021-12-07T10:35:00.000+00:00
 resolved: true
 draft: false
-informational: true
-resolvedWhen: 2021-12-08T08:07:51.827Z
+informational: false
+resolvedWhen: 2021-12-07T10:40:00.000+00:00
 affected:
   - MATATAKI FE
+  - API
 pin: true
-severity: notice
+severity: disrupted
 ---
 GG⚠️
 
