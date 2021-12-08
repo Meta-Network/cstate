@@ -293,7 +293,7 @@ params:
   - name: Uptimerobot
     link: https://stats.uptimerobot.com/9B9yPFzMME
   - name: Upptime
-    link: https://github.com/xiaotiandada/upptime
+    link: https://xiaotiandada.github.io/upptime
 
   # Disable complex server-side
   # calculations that may impact
