@@ -7,14 +7,15 @@ draft: false
 informational: false
 resolvedWhen: 2021-12-07T10:40:00.000+00:00
 affected:
-  - MATATAKI FE
-  - API
+  - Matataki.io Website
 pin: true
 severity: disrupted
 ---
 GG⚠️
 
 foresty edit
+
+我挂了一会儿
 
 ***
 

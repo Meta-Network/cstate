@@ -43,7 +43,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Eggsample Status
+title: Meta Status
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -148,7 +148,8 @@ params:
     #   closed: false
     # - name: Uncategorized
     #   untitled: true
-    - name: Matataki FE
+    - name: Matataki.io Website
+      untitled: true
     # - name: Empty Category
 
   # These are your systems. Change them to
@@ -159,10 +160,9 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: API
+    - name: Matataki.io Website
       description: Matataki Monitor. ⬇️ 平均时间是所有 resolvedWhen / item.
-      category: Matataki FE
-      # partial: '<h1>Hi</h1>'
+      category: Matataki.io Website
 
   # What date format to use?
   #
@@ -277,7 +277,7 @@ params:
   #
   # Recommended: png, bmp, jpg, or gif
   # for best browser support!
-  logo: logo.png
+  logo: logo-meta-240.png
 
   # This is the description that is shown
   # on the footer and meta tags.
