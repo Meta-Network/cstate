@@ -1,10 +1,11 @@
 ---
-title: Test Mttk APII
+title: Test Mttk API - 1208
 date: 2021-12-07T10:35:00.000+00:00
 informational: true
 pin: true
 section: issue
-
+resolvedWhen: 2021-12-08T07:06:12.868Z
+severity: notice
 ---
 GG⚠️
 
