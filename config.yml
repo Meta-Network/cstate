@@ -96,7 +96,7 @@ defaultContentLanguage: en
 # baseUrl: http://localhost
 #
 # Broken example:
-baseUrl: https://cstate-one.vercel.app
+baseUrl: https://meta-state.netlify.app
 # baseURL: https://example.com
 
 # For features like Last modified, you
