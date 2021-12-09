@@ -10,7 +10,8 @@
 # https://github.com/netlify/netlify-cms/blob/master/docs/quick-start.md
 
 backend:
-  name: git-gateway
+  name: github
+  repo: xiaotiandada/cstate
 media_folder: "static/img"
 public_folder: "/img"
 site_url: ../
