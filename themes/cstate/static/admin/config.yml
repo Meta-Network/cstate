@@ -11,7 +11,7 @@
 
 backend:
   name: github
-  repo: xiaotiandada/cstate
+  repo: Meta-Network/cstate
 media_folder: "static/img"
 public_folder: "/img"
 site_url: ../
