@@ -294,6 +294,8 @@ params:
     link: https://stats.uptimerobot.com/9B9yPFzMME
   - name: Upptime
     link: https://meta-network.github.io/upptime
+  - name: Meta Monitor
+    link: https://monitor.mttk.net
 
   # Disable complex server-side
   # calculations that may impact
