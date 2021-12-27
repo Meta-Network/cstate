@@ -1,13 +1,13 @@
 ---
+section: issue
 title: Issues Sending DMs
 date: 2017-12-17 16:24:00
 resolved: true
+draft: true
 resolvedWhen: 2017-12-17 16:59:00
-# Possible severity levels: down, disrupted, notice
-severity: disrupted
 affected:
   - API
-section: issue
+severity: disrupted
 ---
 
 *Update* - This incident has been resolved.
